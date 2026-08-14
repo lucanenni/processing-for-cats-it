@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 190" width="200" height="190">
+  <!-- paint drips -->
+  <circle cx="28" cy="38" r="9" fill="#e04f5f"/>
+  <circle cx="172" cy="34" r="11" fill="#3aa6a0"/>
+  <circle cx="18" cy="142" r="9" fill="#f2b134"/>
+  <circle cx="178" cy="150" r="8" fill="#6c5ce7"/>
+
+  <!-- paw print pad -->
+  <ellipse cx="100" cy="122" rx="44" ry="36" fill="#e88a3c"/>
+
+  <!-- toes -->
+  <circle cx="53" cy="80" r="18" fill="#3aa6a0"/>
+  <circle cx="85" cy="53" r="19" fill="#f2b134"/>
+  <circle cx="121" cy="53" r="19" fill="#e04f5f"/>
+  <circle cx="150" cy="80" r="18" fill="#6c5ce7"/>
+</svg>

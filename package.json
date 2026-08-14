@@ -1,0 +1,23 @@
+{
+  "name": "processing-for-cats-it",
+  "version": "1.0.0",
+  "description": "Traduzione italiana di Processing for Cats",
+  "main": "render.js",
+  "scripts": {
+    "render": "node render.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucanenni/processing-for-cats-it.git"
+  },
+  "author": "Luca Nenni",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/lucanenni/processing-for-cats-it/issues"
+  },
+  "homepage": "https://github.com/lucanenni/processing-for-cats-it",
+  "dependencies": {
+    "marked": "^18.0.9",
+    "mustache": "^4.2.0"
+  }
+}
