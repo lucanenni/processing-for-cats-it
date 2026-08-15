@@ -38,6 +38,7 @@ jobs:
           cp index.html dist/
           cp -r stylesheets dist/
           cp -r images dist/
+          cp -r javascripts dist/
           touch dist/.nojekyll
 
       - uses: actions/upload-pages-artifact@v3
